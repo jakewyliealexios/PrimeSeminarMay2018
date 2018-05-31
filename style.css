@@ -1,0 +1,34 @@
+body, html {
+  padding: 0;
+  margin: 0;
+}
+
+main {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  max-width: 800px;
+}
+
+h3 {
+  padding: 10px;
+  font-style: italic;
+}
+
+
+header {
+  padding: 10px;
+  margin: 5px;
+  background-color: skyblue;
+}
+
+p {
+  Background-color: pink;
+}
